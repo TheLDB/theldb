@@ -17,5 +17,9 @@
 - - -
 Your one-stop shop for everything NFT. Set up, and design an NFT landing site, minting page, and collection showcase in half an hour with our easy to use drag & drop designer.
 
+### [Titan](https://github.com/TheLDB/titan)
+- - - 
+Titan is an easy to use NFT collection monitor discord bot, written in Rust
+[View Here](https://github.com/TheLDB/titan)
 
 
