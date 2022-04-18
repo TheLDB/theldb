@@ -1,22 +1,28 @@
-# Hey, I'm Landon!
+# i'm landon 🌊
 
 ## About Me
-- 16 Yrs Old
+- 16 Years Old
 - Started programming in 2012
 - Colorado Native 🏔️
 - Class of 2022 🎉
 
 ## Hobbies/Interests
-- Programming
-  - Rust
+- Programming 
+  - Rust 
   - React
   - TS
+- Snowboarding 🏂
+- Travelling ✈️
 
 ## Currently Working On
 
 ### [Monatize](https://github.com/Monatize)
 - - -
-Your one-stop shop for everything NFT. Set up, and design an NFT landing site, minting page, and collection showcase in half an hour with our easy to use drag & drop designer.
+The best way to build 🤝
+Create & deploy your NFT collection in 30 minutes, with 0 coding knowledge.
+- Drag & Drop site builder
+- Art randomizer & uploader (to decentralized hosts)
+- Smart Contract Deployer
 
 Currently my only project since I am dedicating all of my time to it
 
