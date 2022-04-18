@@ -2,14 +2,15 @@
 
 ## About Me
 - 16 Yrs Old
-- Self Taught Software Engineer since 2012
-- Live in Colorado
-- Dream location is Switzerland
+- Started programming in 2012
+- Colorado Native 🏔️
+- Class of 2022 🎉
 
 ## Hobbies/Interests
-- Web3
-- Rust
-- Blockchain
+- Programming
+  - Rust
+  - React
+  - TS
 
 ## Currently Working On
 
@@ -17,9 +18,6 @@
 - - -
 Your one-stop shop for everything NFT. Set up, and design an NFT landing site, minting page, and collection showcase in half an hour with our easy to use drag & drop designer.
 
-### [Titan](https://github.com/TheLDB/titan)
-- - - 
-Titan is an easy to use NFT collection monitor discord bot, written in Rust
-[View Here](https://github.com/TheLDB/titan)
+Currently my only project since I am dedicating all of my time to it
 
 
