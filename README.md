@@ -19,6 +19,7 @@
 ### [Monatize](https://github.com/Monatize)
 - - -
 The best way to build 🤝
+
 Create & deploy your NFT collection in 30 minutes, with 0 coding knowledge.
 - Drag & Drop site builder
 - Art randomizer & uploader (to decentralized hosts)
