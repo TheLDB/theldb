@@ -11,6 +11,7 @@
   - Rust 
   - React
   - TS
+- Web3
 - Snowboarding 🏂
 - Travelling ✈️
 
@@ -24,7 +25,3 @@ Create & deploy your NFT collection in 30 minutes, with 0 coding knowledge.
 - Drag & Drop site builder
 - Art randomizer & uploader (to decentralized hosts)
 - Smart Contract Deployer
-
-Currently my only project since I am dedicating all of my time to it
-
-
