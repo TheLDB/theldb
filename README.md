@@ -18,7 +18,7 @@ I'm Landon, a 16 year old web developer from Colorado who's passionate about bui
 - 🎨 [Monatize](https://monatize.it) - Helping creators build better in Web3 with easy to use no-code tools
     - Built with Typescript, Rust, and Next.JS
     - Built on AWS
-- 🦠 [Open-Source API & Scraper for Monkeypox Global Data, easily accessible.](https://github.com/TheLDB/monkeypox-api)
+- 🦠 [Open-Source API & Scraper for Global Monkeypox Data](https://github.com/TheLDB/monkeypox-api)
     - Built using Typescript and PostgresQL
     - Hosted with Supabase & Vercel
 - 🖼️ [Open-Source Monkeypox Data viewer](https://github.com/TheLDB/monkeypox-web)
