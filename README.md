@@ -12,7 +12,6 @@
   - React
   - TS
 - Web3
-- Snowboarding 🏂
 - Travelling ✈️
 
 ## Currently Working On
