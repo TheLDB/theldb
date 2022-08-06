@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="img/smile.gif" alt="Landon Boles" />
+  <img src="smile.gif" alt="Landon Boles" />
 </h1>
 
 ## Hey! 👋
