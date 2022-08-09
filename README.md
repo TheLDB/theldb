@@ -27,6 +27,6 @@ I'm Landon, a 16 year old web developer from Colorado who's passionate about bui
 
 ## Contact
 - [@lndnNFT](https://twitter.com/lndnNFT) on Twitter
-- [lndn#0001](./) on Discord
+- [lndn#4096](./) on Discord
 - [ldb@erikboles.com](mailto:ldb@erikboles.com)
 - [landon@monatize.it](mailto:landon@monatize.it)
