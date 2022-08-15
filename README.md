@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Landon, a 16 year old web developer from Colorado who's passionate about building.
+I'm Landon, a 16 year old software engineer from Colorado who's passionate about building.
 
 - 🎨 Co-Founder at [Monatize](https://monatize.it)
     - Helping creators build better in Web3 with easy to use No-Code tools.
