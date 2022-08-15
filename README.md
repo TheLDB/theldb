@@ -21,9 +21,9 @@ I'm Landon, a 16 year old software engineer from Colorado who's passionate about
 - 🦠 [Open-Source API & Scraper for Global Monkeypox Data](https://github.com/TheLDB/monkeypox-api)
     - Built using Typescript and PostgresQL
     - Hosted with Supabase & Vercel
-- 🖼️ [Open-Source Monkeypox Data viewer](https://github.com/TheLDB/monkeypox-web)
-    - Built using Typescript, Next.JS, and NextUI
-    - Hosted with Vercel
+- 🖼️ [Discord Counting Bot](https://github.com/TheLDB/BetterCounting)
+    - Built using Typescript
+    - Hosted with Supabase & AWS
 
 ## Contact
 - [@lndnNFT](https://twitter.com/lndnNFT) on Twitter
