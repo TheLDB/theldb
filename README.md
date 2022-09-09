@@ -3,10 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Landon, a 16 year old software engineer from Colorado who's passionate about building.
-
-- Founder @ [Monatize](https://monatize.it)
-    - Helping creators build better in Web3 with easy to use No-Code tools.
+I'm Landon, a 17 year old software engineer from Colorado who's passionate about building.
 
 ## Skills
 - 👨‍💻 Typescript, Rust, Python, C#
