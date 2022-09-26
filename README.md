@@ -29,7 +29,7 @@ I'm Landon, a 17 year old software engineer from Colorado who's passionate about
   - Built using Rust, Serenity, Tokio, & [more](https://github.com/TheLDB/ratio_terminal_rust/blob/main/Cargo.toml)
 
 - 🍕 [Degenslacker - WIP](https://github.com/TheLDB/degenslacker)
-  - A web app for the [Farcaster] ecosystem, which allows you to create "feeds" and get webhook notifications every time a monitored user sends a cast.
+  - A web app for the [Farcaster](https://farcaster.xyz) ecosystem, which allows you to create "feeds" and get webhook notifications every time a monitored user sends a cast.
   - Built using Typescript, Next, Axios, and more.
   
 - 🐰 [HopDown](https://github.com/TheLDB/hopdown)
