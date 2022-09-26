@@ -23,7 +23,7 @@ I'm Landon, a 17 year old software engineer from Colorado who's passionate about
   - There is extensive documentation to get started quickly
   - Built using Rust, Tokio, ethers-rs, and [more](https://github.com/TheLDB/farcaster-rs/blob/main/Cargo.toml)
 
-- 💯 [ratio-terminal-rust)(https://github.com/TheLDB/ratio_terminal_rust)
+- 💯 [ratio-terminal-rust](https://github.com/TheLDB/ratio_terminal_rust)
   - A Rust rewrite of the Ratio Terminal (javascript) bot
   - Allows you to ratio your friends in Discord channels
   - Built using Rust, Serenity, Tokio, & [more](https://github.com/TheLDB/ratio_terminal_rust/blob/main/Cargo.toml)
