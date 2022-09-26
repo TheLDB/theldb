@@ -3,9 +3,13 @@
 </h1>
 
 ## Hey! 👋
-I'm Landon, a 17 year old software engineer from Colorado who's passionate about building.
+I'm Landon, a 17 year old software engineer from Colorado who's passionate about learning & building overall.
 
-Currently, I'm looking for work and working on a secret startup that will be announced in a few months 🏝️
+## Interests
+- 🗻 Snowboarding
+- 🐶 Dogs/Pets
+- 🔗 Web3/Decentralization
+- 🦀 High performance scripts & backends
 
 ## Skills
 - 👨‍💻 Typescript, Rust, Python, C#
@@ -14,21 +18,26 @@ Currently, I'm looking for work and working on a secret startup that will be ann
 - 💽 MySQL, PostgresQL
 
 ## Projects
-- 🌐 [DegenSlacker](https://github.com/TheLDB/degenslacker)
-  - A web app built for [farcaster](https://farcaster.xyz) which allows you to create "feeds" and get discord/slack webhook notifications every time a monitor user sends a cast
-  - Runs a cron job every 2 minutes that gets all new casts and pushes them to the respective webhooks
-  - Built w/ Next, Typescript, and Tailwind
-  
-- ☄️ [HopDown](https://github.com/TheLDB/HopDown)
-    - Realtime, collaborative markdown editing w/ your team/friends
-    - Built w/ Next, Typescript, TailwindCSS, and [Hop](https://hop.io)
-    
-- 🖼️ [Discord Counting Bot](https://github.com/TheLDB/BetterCounting)
-    - Built using Typescript
-    - Hosted with Supabase & AWS
+- 🦀 [farcaster-rs](https://github.com/TheLDB/farcaster-rs)
+  - farcaster-rs is a Rust crate used to interface & interact with the [farcaster](https://farcaster.xyz) smart contracts & APIs
+  - There is extensive documentation to get started quickly
+  - Built using Rust, Tokio, ethers-rs, and [more](https://github.com/TheLDB/farcaster-rs/blob/main/Cargo.toml)
 
+- 💯 [ratio-terminal-rust)(https://github.com/TheLDB/ratio_terminal_rust)
+  - A Rust rewrite of the Ratio Terminal (javascript) bot
+  - Allows you to ratio your friends in Discord channels
+  - Built using Rust, Serenity, Tokio, & [more](https://github.com/TheLDB/ratio_terminal_rust/blob/main/Cargo.toml)
+
+- 🍕 [Degenslacker - WIP](https://github.com/TheLDB/degenslacker)
+  - A web app for the [Farcaster] ecosystem, which allows you to create "feeds" and get webhook notifications every time a monitored user sends a cast.
+  - Built using Typescript, Next, Axios, and more.
+  
+- 🐰 [HopDown](https://github.com/TheLDB/hopdown)
+  - A web app built for the 48hr [Buildergroop](https://buildergroop.com) hackathon
+  - A realtime, collaborative Markdown editor that allows you & your team to work together on documentation more efficiently
+  - Built using Typescript, Next, [Hop](https://hop.io), and more
+  
 ## Contact
-- [@lndnNFT](https://twitter.com/lndnNFT) on Twitter
-- [lndn#0001](./) on Discord
 - [ldb@erikboles.com](mailto:ldb@erikboles.com)
-- [landon@monatize.it](mailto:landon@monatize.it)
+- [@landon_xyz](https://twitter.com/landon_xyz) on Twitter
+- [landonb#0001](./) on Discord
