@@ -36,4 +36,4 @@ I'm Landon, a 17 year old software engineer from Colorado who's passionate about
 ## Contact
 - [ldb@erikboles.com](mailto:ldb@erikboles.com)
 - [@landon_xyz](https://twitter.com/landon_xyz) on Twitter
-- [landonn#0306](./) on Discord
+- [landonn#4851](./) on Discord
