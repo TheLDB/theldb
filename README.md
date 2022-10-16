@@ -27,10 +27,6 @@ I'm Landon, a 17 year old software engineer from Colorado who's passionate about
   - A Rust rewrite of the Ratio Terminal (javascript) bot
   - Allows you to ratio your friends in Discord channels
   - Built using Rust, Serenity, Tokio, & [more](https://github.com/TheLDB/ratio_terminal_rust/blob/main/Cargo.toml)
-
-- 🍕 [Degenslacker - WIP](https://github.com/TheLDB/degenslacker)
-  - A web app for the [Farcaster](https://farcaster.xyz) ecosystem, which allows you to create "feeds" and get webhook notifications every time a monitored user sends a cast.
-  - Built using Typescript, Next, Axios, and more.
   
 - 🐰 [HopDown](https://github.com/TheLDB/hopdown)
   - A web app built for the 48hr [Buildergroop](https://buildergroop.com) hackathon
