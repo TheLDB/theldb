@@ -2,14 +2,16 @@
   <img src="smile.gif" alt="Landon Boles" />
 </h1>
 
-## Hey! 👋
-I'm Landon, a 17 year old software engineer from Colorado who's passionate about learning & building overall.
+## Hi!
+I'm Landon, a 17 year old software engineer from Colorado ❄️
 
+Currently, I'm building @ [Bloom](https://bloomapp.com), an investing platform thats making stock market education easier to access than ever before.
+
+In my free time, I'm building [Portals](https://github.com/withportals), the developer platform for social protocols.
 ## Interests
-- 🗻 Snowboarding
-- 🐶 Dogs/Pets
-- 🔗 Web3/Decentralization
-- 🦀 High performance scripts & backends
+- 🔗 Decentralization
+- 🦀 High performance, low-latency code/infra
+- 💬 Open Social Protocols (specifically: [Farcaster](https://github.com/farcasterxyz))
 
 ## Skills
 - 👨‍💻 Typescript, Rust, Python, C#
