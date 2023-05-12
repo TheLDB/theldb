@@ -37,5 +37,6 @@ In my free time, I'm building [Portals](https://github.com/withportals), the dev
   
 ## Contact
 - [ldb@erikboles.com](mailto:ldb@erikboles.com)
+- [lndnnft](https://warpcast.com/lndnnft) on Farcaster
 - [@landon_xyz](https://twitter.com/landon_xyz) on Twitter
-- [landonn#4851](./) on Discord
+- [landonn#0001](./) on Discord
