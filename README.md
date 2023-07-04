@@ -7,7 +7,7 @@ I'm Landon, a 17 year old software engineer from Colorado ❄️
 
 Currently, I'm building @ [Bloom](https://bloomapp.com), an investing platform thats making stock market education easier to access than ever before.
 
-In my free time, I'm building [Portals](https://github.com/withportals), the developer platform for social protocols.
+In my free time, I'm building [Portals](https://github.com/withportals), the developer platform for [Farcaster](https://farcaster.xyz)
 ## Interests
 - 🔗 Decentralization
 - 🦀 High performance, low-latency code/infra
