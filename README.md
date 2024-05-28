@@ -4,6 +4,8 @@
 
 internal tooling @ [Bloom](https://bloomapp.com)
 
+empowering young builders @ [Bagel Fund](https://bagel.fund)
+
 building @ 🤫
 
 [email](mailto:ldb@erikboles.com)
