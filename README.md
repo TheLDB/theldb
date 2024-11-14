@@ -2,11 +2,9 @@
   <img src="smile.gif" alt="Landon Boles" />
 </h1>
 
-internal tooling @ [Bloom](https://bloomapp.com)
+eng @ [Bloom](https://bloomapp.com)
 
 empowering young builders @ [Bagel Fund](https://bagel.fund)
-
-building @ 🤫
 
 [email](mailto:ldb@erikboles.com)
 [twitter](https://twitter.com/landon_xyz)
